@@ -6,7 +6,6 @@ import {
 
 import logo from './logo.png';
 import './App.css';
-
 import { TaskProvider } from './context/taskContext';
 
 import ItemList from './components/ItemList';
